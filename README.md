@@ -4,6 +4,7 @@ send whatsapp message to a group of unsaved contact number at once using python 
 to use this app install selenium and scheduler using commands
 
 pip install selenium
+
 pip install scheduler
 
 download the chrome driver corresponding to your chrome version if the provided chrome driver becomes outdated.
