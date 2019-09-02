@@ -82,8 +82,8 @@ def sender():
 if __name__ == "__main__":
 
     print("Web Page Open")
-
-    unsaved_Contacts  = ['919315673060','918228062078']
+    #enter the contact numbers as shown below in the list
+    unsaved_Contacts  = ['913453453453','912342342342']
     input_message()
 
 
